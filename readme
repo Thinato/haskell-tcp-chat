@@ -1,0 +1,4 @@
+
+sudo pacman -S ghc
+
+ghc -dynamic main.hs -o main
